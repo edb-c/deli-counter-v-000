@@ -1,4 +1,4 @@
-katzDeliLine = ["Ada", "Grace"];
+#katzDeliLine = ["Ada", "Grace"];
 #katzDeliLine = [];
 
 def takeANumber(katzDeliLine, name) 
